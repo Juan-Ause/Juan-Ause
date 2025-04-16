@@ -42,7 +42,12 @@
 
 <h5 align="center"> 🤝 Conectemos </h5>
 
-<p align="center"> <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> <a href="mailto:kmiloause12@hotmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a> </p>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/juan-camilo-ausecha-9603a12a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> 
+<a href="mailto:kmiloause12@hotmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a> 
+</p>
+
 <p align="center">✨ "Codea como si el bug te estuviera viendo" ✨</p> 
 
 
